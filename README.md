@@ -2,5 +2,5 @@
 Sample Project Trial on Spring boot security which includes inMemory, JWT, BasicAuthentication Security mechanisms
 
   In memory:
-    username : sankar
+    username : sankar <br/>
     password : naaishtam
